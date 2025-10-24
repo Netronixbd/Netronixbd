@@ -15,7 +15,7 @@
   </h3>
 
   <!-- Animated Network Background -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNraXIyeHFtY20ybHc1azFlenJ5bzJyNzU3NjY1aXJ0dTBrcWJ0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DCMZYL14SScKmQrWjK/giphy.gif" style="width:100%; border-radius:20px; opacity:0.2; position:absolute; top:0; left:0; z-index:-1;"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzkxaHcwM2wza2pnYnFxbnZxNWNveWZzd3RrMmoyNnpvZnZmcnhkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wjEwvAMkkoUmLOc722/giphy.gif" style="width:100%; border-radius:20px; opacity:0.2; position:absolute; top:0; left:0; z-index:-1;"/>
 </div>
 
 ## 📊 GitHub Stats  
