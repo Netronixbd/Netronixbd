@@ -1,7 +1,22 @@
-<!-- HEADER SECTION -->
-<p align="center">
-  <img src="https://img.icons8.com/color/96/network.png" width="100" height="100"/>
-</p>
+<!-- NETWORKED PROFILE HEADER -->
+<div align="center" style="position: relative; overflow: hidden; border-radius: 20px;">
+  <img src="https://img.icons8.com/color/96/network.png" width="100" height="100" alt="Network Logo"/>
+
+  <h1 align="center">
+    <span style="font-size:36px; background: linear-gradient(90deg, #00e0ff, #0077b6, #00e0ff); 
+                 -webkit-background-clip: text; color: transparent;
+                 animation: glow 3s ease-in-out infinite alternate;">
+      🌐 Amir Hosan — Network Engineer
+    </span>
+  </h1>
+
+  <h3 align="center" style="color:#ffffff;">
+    <i>Building, Securing & Automating Networks</i>
+  </h3>
+
+  <!-- Animated Network Background -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNraXIyeHFtY20ybHc1azFlenJ5bzJyNzU3NjY1aXJ0dTBrcWJ0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DCMZYL14SScKmQrWjK/giphy.gif" style="width:100%; border-radius:20px; opacity:0.2; position:absolute; top:0; left:0; z-index:-1;"/>
+</div>
 
 ## 📊 GitHub Stats  
 
